@@ -1227,7 +1227,7 @@ class ImageWorkshopLayer
 
         $opacity = 127;
 
-        if ($backgroundColor !== 'transparent') {
+        if ($backgroundColor && $backgroundColor !== 'transparent') {
             $opacity = 0;
         }
 
