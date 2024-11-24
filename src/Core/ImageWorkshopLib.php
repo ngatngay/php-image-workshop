@@ -83,7 +83,7 @@ class ImageWorkshopLib
         imagesavealpha($image, true);
 
         if ($color === 'transparent') {
-            $color = 'ffffff';
+            $color = null;
             $opacity = 127;
         }
 
