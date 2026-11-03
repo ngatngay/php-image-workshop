@@ -13,11 +13,11 @@ Really flexible and easy-to-use PHP class to work with images using the GD Libra
 
 http://phpimageworkshop.com/
 
-Current `master` branch correspond to the next major release (v3) which only support PHP 8.0+.
+Current `master` branch correspond to the next major release (v3) which only support PHP 8.2+.
 
 ### Installation
 
-The class is designed for PHP 8.0+... Check how to install the class here: http://phpimageworkshop.com/installation.html
+The class is designed for PHP 8.2+... Check how to install the class here: http://phpimageworkshop.com/installation.html
 
 For older PHP versions support, install the [2.x](https://github.com/Sybio/ImageWorkshop/tree/2.x) version branch.
 

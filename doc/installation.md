@@ -2,7 +2,7 @@
 
 ## Installation
 
-The class is designed for **PHP version 5.4+**, it includes new specifications like namespaces. If you use an **older version**, it can work until you remove these specifications. See how to install and use the class depending of your PHP version:
+The class is designed for **PHP version 8.2+**, it includes new specifications like namespaces. If you use an **older version**, it can work until you remove these specifications. See how to install and use the class depending of your PHP version:
 
 ### PHP with an autoloader
 
